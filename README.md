@@ -41,4 +41,7 @@
 **Technologies / Frameworks Used** : <br>
 • **Porter’s Five Forces** : Evaluated industry competitiveness, competitive rivalry, supplier and buyer power and barriers to entry.<br>
 • **SWOT Analysis** : Assessed Amazon Go's internal strengths and weaknesses alongside external opportunities and threats. <br>
-• **Strategic Recommendations** : Developed actionable initiatives to support innovation, scalability and long-term competitive advantage.
+• **Strategic Recommendations** : Developed actionable initiatives to support innovation, scalability and long-term competitive advantage. 
+
+**Repository Contents** : <br>
+📄 Project Report : [https://github.com/krithikaamadhumitha/Insurance-Fraud-Claim-Prediction/blob/main/InsuranceFraudClaimPrediction.pdf](https://github.com/krithikaamadhumitha/Amazon-Go-Competitive-Strategy/blob/main/Strategic%20Analysis%20for%20Competitive%20Advantage%20-%20AmazonGo%20-%20Case%20Study%20Report.pdf)
