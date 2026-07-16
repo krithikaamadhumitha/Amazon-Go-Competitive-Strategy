@@ -44,4 +44,4 @@
 • **Strategic Recommendations** : Developed actionable initiatives to support innovation, scalability and long-term competitive advantage. 
 
 **Repository Contents** : <br>
-📄 Project Report : [AmazonGo-CompetitiveStrategy.pdf]((https://github.com/krithikaamadhumitha/Amazon-Go-Competitive-Strategy/blob/main/Strategic%20Analysis%20for%20Competitive%20Advantage%20-%20AmazonGo%20-%20Case%20Study%20Report.pdf))
+📄 Project Report : [AmazonGo-CompetitiveStrategy.pdf](https://github.com/krithikaamadhumitha/Amazon-Go-Competitive-Strategy/blob/main/Strategic%20Analysis%20for%20Competitive%20Advantage%20-%20AmazonGo%20-%20Case%20Study%20Report.pdf)
