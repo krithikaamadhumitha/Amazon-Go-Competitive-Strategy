@@ -24,6 +24,12 @@
 • **Competitive Assessment** : Analyzed industry competition, market dynamics and innovation strategy.<br>
 • **Strategic Recommendations** : Developed recommendations to improve sustainability, scalability and competitive advantage.
 
+**Key Insights** : <br>
+• **Frictionless Customer Experience** :  AI-powered cashier-less checkout enhances convenience, customer satisfaction and brand loyalty. <br>
+• **Technology as Differentiator** : Computer vision, IoT sensors and machine learning drive operational efficiency and redefine the in-store shopping experience.<br>
+• **Scalability Challenges** : High infrastructure and implementation costs present challenges for rapid global expansion.<br>
+• **Ecosystem Leverage** : Integration with Amazon's broader ecosystem strengthens customer retention and reinforces long-term competitive positioning.
+
 **Key Outcomes** : <br>
 • Evaluated Amazon Go's technology-enabled retail strategy.<br>
 • Identified strengths, weaknesses, opportunities and competitive challenges.<br>
@@ -36,9 +42,3 @@
 • **Porter’s Five Forces** : Evaluated industry competitiveness, competitive rivalry, supplier and buyer power and barriers to entry.<br>
 • **SWOT Analysis** : Assessed Amazon Go's internal strengths and weaknesses alongside external opportunities and threats. <br>
 • **Strategic Recommendations** : Developed actionable initiatives to support innovation, scalability and long-term competitive advantage.
-
-**Key Insights** : <br>
-• **Frictionless Customer Experience** :  AI-powered cashier-less checkout enhances convenience, customer satisfaction and brand loyalty. <br>
-• **Technology as Differentiator** : Computer vision, IoT sensors and machine learning drive operational efficiency and redefine the in-store shopping experience.<br>
-• **Scalability Challenges** : High infrastructure and implementation costs present challenges for rapid global expansion.<br>
-• **Ecosystem Leverage** : Integration with Amazon's broader ecosystem strengthens customer retention and reinforces long-term competitive positioning.
